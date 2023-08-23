@@ -1,0 +1,3 @@
+<QuerySet [<Nombre: Guillermo, Apellido: Ondarza, Ciudad: Viña del Mar, País: Chile, Planeta: Tierra>, 
+           <Nombre: Katherin, Apellido: Middleton, Ciudad: Lóndres, País: Inglaterra, Planeta: Tierra>
+           ]>
